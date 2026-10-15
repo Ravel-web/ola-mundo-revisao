@@ -1,2 +1,4 @@
-# ola mundo/revisao
- revisao do curso de Git e GITHUB
+# olá,mundo/revisão
+ revisão do curso de GIT e GITHUB
+
+ Iniciando uma nova revisão durante uma ao vivo!
